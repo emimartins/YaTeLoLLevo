@@ -1,0 +1,2 @@
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\DataTypes\obj\Debug\DataTypes.csprojAssemblyReference.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
