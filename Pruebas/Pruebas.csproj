@@ -53,6 +53,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PruebasTienda.cs" />
@@ -66,6 +67,10 @@
     <ProjectReference Include="..\AccesoADatos\AccesoADatos.csproj">
       <Project>{DA0BC4F7-B932-4685-A0A7-D4E9710CB251}</Project>
       <Name>AccesoADatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Compartido\Compartido.csproj">
+      <Project>{d89c9d67-b679-4e87-8a8b-3e44e3dc591e}</Project>
+      <Name>Compartido</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

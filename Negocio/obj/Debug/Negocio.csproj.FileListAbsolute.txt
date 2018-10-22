@@ -1,0 +1,16 @@
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\Negocio.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\Compartido.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\AccesoADatos.dll.config
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\Compartido.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\Compartido.dll.config
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\obj\Debug\Negocio.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Negocio\obj\Debug\Negocio.pdb

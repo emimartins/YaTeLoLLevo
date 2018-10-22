@@ -1,0 +1,6 @@
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Compartido\bin\Debug\Compartido.dll.config
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Compartido\bin\Debug\Compartido.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Compartido\bin\Debug\Compartido.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Compartido\obj\Debug\Compartido.csproj.CoreCompileInputs.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Compartido\obj\Debug\Compartido.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\Compartido\obj\Debug\Compartido.pdb

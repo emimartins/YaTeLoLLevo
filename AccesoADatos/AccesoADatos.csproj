@@ -65,17 +65,18 @@
     <Compile Include="Modelo\Delivery.cs" />
     <Compile Include="Modelo\EstadoOrden.cs" />
     <Compile Include="Modelo\LineaVenta.cs" />
-    <Compile Include="Modelo\MetodoPago.cs" />
     <Compile Include="Modelo\Orden.cs" />
     <Compile Include="Modelo\Pedido.cs" />
     <Compile Include="Modelo\Producto.cs" />
     <Compile Include="Modelo\Tienda.cs" />
-    <Compile Include="Modelo\TipoMoneda.cs" />
-    <Compile Include="Modelo\TipoTienda.cs" />
-    <Compile Include="Modelo\TipoVehiculo.cs" />
     <Compile Include="Modelo\Usuario.cs" />
     <Compile Include="Context\YaTeLoLLevoContext.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Compartido\Compartido.csproj">
+      <Project>{d89c9d67-b679-4e87-8a8b-3e44e3dc591e}</Project>
+      <Name>Compartido</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

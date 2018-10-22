@@ -1,12 +1,15 @@
-C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\AccesoADatos.dll.config
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\AccesoADatos.dll
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\Compartido.dll
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\EntityFramework.dll
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\Compartido.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\Compartido.dll.config
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\EntityFramework.xml
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.dll
 C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.pdb
-C:\Users\emimartins\Documents\VisualStudioProjects\YaTeLoLLevo\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
